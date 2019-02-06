@@ -15,7 +15,7 @@ $ cd jadwal-sholat
 $ ls
 
 
-## [ + ] Jadwal sholat per provinsi.
+## [ + ] Jadwal sholat per provinsi [ + ]
 ## [ ! ] Example : $ node Aceh ( enter ).
 ## [ ! ] Provinsi dengan kata panjang disingkat, example : $ node Sulsel     ( Sulawesi Selatan ).
 ## [ ? ] Edit bagian " waktu.json " di folder ' inc ' untuk mengatur tanggal per jadwal.
