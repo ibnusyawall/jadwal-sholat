@@ -1,1 +1,50 @@
-
+{
+    "data":[
+        {                                                                                                        "a" : "Ibnu Syawall",
+            "b" : "407 AEX",
+            "c" : "Jadwal-Sholat"
+        },
+        {
+            "a" : "Subuh",
+            "b" : "Dzuhur",
+            "c" : "Ashar",
+            "d" : "Maghrib",
+            "e" : "Isya"
+        },
+        {
+            "a" : "Aceh",
+            "b" : "Sumatra Utara",
+            "c" : "Sumatra Barat",
+            "d" : "Riau",
+            "e" : "Kepulauan Riau",
+            "f" : "Jambi",                                                                                       "g" : "Bengkulu",
+            "h" : "Sumatera Selatan",
+            "i" : "Bangka Belitung",
+            "j" : "Lampung",
+            "k" : "Banten",
+            "l" : "Jawa Barat",
+            "m" : "DKI Jakarta",
+            "n" : "Jawa Tengah",
+            "o" : "DI Yogyakarta",
+            "p" : "Jawa Timur",
+            "q" : "Bali",
+            "r" : "Nusa Tenggara Barat",
+            "s" : "Nusa Tenggara Timur",
+            "t" : "Kalimantan Utara",
+            "u" : "Kalimantan Barat",
+            "v" : "Kalimantan Tengah",
+            "w" : "Kalimantan Selatan",
+            "x" : "Kalimantan Timur",
+            "y" : "Gorontalo",
+            "z" : "Sulawesi Utara",
+            "aa" : "Sulawesi Barat",
+            "ab" : "Sulawesi Tengah",
+            "ac" : "Sulawesi Selatan",
+            "ad" : "Sulawesi Tenggara",
+            "ae" : "Maluku Utara",
+            "af" : "Maluku",
+            "ag" : "Papua Barat",
+            "ah" : "Papua"
+        }
+    ]
+}
