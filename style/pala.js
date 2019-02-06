@@ -1,3 +1,5 @@
+// ini bagan head
+
 var warna = require('./warna.js');
 var ini = require('../inc/ini.json');
 console.log("")
