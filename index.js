@@ -3,11 +3,11 @@
 
 // ---------- module ----------
 
-var read = require('readline');
-var shel = require('shelljs') ;
-var warn = require('colors')  ;
-var requ = require('request') ;
-var ini  = require('./ini.json');
+var read = require('readline');    // npm install --save readline
+var shel = require('shelljs') ;    // npm install --save shelljs
+var warn = require('colors')  ;    // npm install --save colors
+var requ = require('request') ;    // npm install --save request
+var ini  = require('./inc/ini.json');
 
 // ---------- warna ---------*
 
