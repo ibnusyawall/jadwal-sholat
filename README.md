@@ -1,24 +1,21 @@
 # jadwal-sholat
 
-cara install : 
+## install
 
+<pre>
+$ pkg update && pkg upgrade
 $ pkg install git
-
 $ pkg install nodejs
-
-$ npm install --save request colors
-
 $ git clone https://github.com/ibnusyawall/jadwal-sholat
-
 $ cd jadwal-sholat
+$ npm install
+$ node index
+</pre>
 
-$ ls
+## update
 
-
-## [ + ] Jadwal sholat per provinsi [ + ]
-## [ ! ] Example : $ node Aceh ( enter ).
-## [ ! ] Provinsi dengan kata panjang disingkat, example : $ node Sulsel     ( Sulawesi Selatan ).
-## [ ? ] Edit bagian " waktu.json " di folder ' inc ' untuk mengatur tanggal per jadwal.
-## [ ? ] Semua daerah ditulis dengan huruf kapital.
+<pre>
+$ git pull --force
+</pre>
 
 say alhamdulillah :)
